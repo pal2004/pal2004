@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pal2004
+- 👋 Hi, I’m Shephali Srivastava
 - 👀 I’m interested in ML,DATA ANALYTICS,OPEN CV AND DSA
 - 🌱 I’m currently learning OPEN CV AND DATA ANALYSIS
 - 📫 How to reach me palakkenlife19@gmail.com
